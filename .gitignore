@@ -1,0 +1,11 @@
+logs
+*.log
+/.idea
+.DS_Store
+*.sw[a-z]
+.grunt
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+node_modules
+
+
